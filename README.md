@@ -704,6 +704,10 @@ button[type="submit"]:hover {
 }
 ```
 ### Output
+![Screenshot 2024-07-02 211031](https://github.com/ManojTella/Website-Using-CSS/assets/94883876/77fb8502-5c92-497e-83e8-d5d7823e65ad)
+![Screenshot 2024-07-02 211044](https://github.com/ManojTella/Website-Using-CSS/assets/94883876/5fcdfc6c-2156-4087-8bd3-f0ebed4e7b15)
+![Screenshot 2024-07-02 211059](https://github.com/ManojTella/Website-Using-CSS/assets/94883876/dfe47f00-6df8-4784-a30e-1dd2d0d52d6e)
+![Screenshot 2024-07-02 211110](https://github.com/ManojTella/Website-Using-CSS/assets/94883876/0ae4af84-90b5-422e-b9a3-2f1ad07e01c3)
 
 
 ### Result:
